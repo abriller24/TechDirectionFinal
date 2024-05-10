@@ -8,6 +8,7 @@ This is a tool I built using python with the help of @Studio 4 Media help on you
   ![image](https://github.com/abriller24/TechDirectionFinal/assets/70406513/ecd36c34-b6cb-4da2-a040-550bdd01c953)
 
 * open the final folder to find the python script needed. Drag and drop this into maya, you should see this window pop up
+  
   ![image](https://github.com/abriller24/TechDirectionFinal/assets/70406513/b6df7df0-f17f-4413-8309-2dce51ac333f)
 
 *set you values and begin creating lego blocks!
