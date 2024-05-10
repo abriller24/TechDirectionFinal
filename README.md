@@ -5,7 +5,6 @@ This is a tool I built using python with the help of @Studio 4 Media help on you
 
 ##Install:
 * download and unzip the plugin, it should look like this when unzipped correctly
-  
-  <img src = "C:\Users\Austin\Pictures\Screenshots\Screenshot 2024-05-09 185612.png">
-  
-* open the final folder to find the python script needed. 
+* open the final folder to find the python script needed. Drag and drop this into maya
+  ![image](https://github.com/abriller24/TechDirectionFinal/assets/70406513/b6df7df0-f17f-4413-8309-2dce51ac333f)
+
