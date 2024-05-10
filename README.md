@@ -12,3 +12,5 @@ This is a tool I built using python with the help of @Studio 4 Media help on you
 
 *set you values and begin creating lego blocks!
 
+-Note: I wasn't able to get the color switcher node to work, I believe it has something to do with creating and changing the material set to the lego piece at the same time. 
+
